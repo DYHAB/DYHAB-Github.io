@@ -4,33 +4,8 @@ body {
 }
 
 /* __________________________ Menü ___________________________*/
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: rgb(50, 100, 168);
-  }
-  
-  li {
-    float: right;
-  }
-  
-  li a {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    font-size: 20px;
-  }
-  
-  li a:hover {
-    background-color: white;
-    color: rgb(245, 189, 196);
-  }
 
-  .icon {
-      float: left;
-      padding-top: 2px;
-  }
+.center {
+border: 5px solid #FFFF00;
+text-align: center;
+}
